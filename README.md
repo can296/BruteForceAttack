@@ -7,7 +7,7 @@ This script automates brute forcing a text field through the gui for sites that 
 
 ```bash
 $ pip install PyAutoGUI
-$ git clone https://github.com/cann66dev/BruteForceAttack-python.git
+$ git clone https://github.com/cann66dev/BruteForceAttack.git
 $ cd BruteForceAttack/BruteForce
 $ python BruteForceAttack.py --help
 $ python BruteForceAttack.py --file "file name or file directory"
